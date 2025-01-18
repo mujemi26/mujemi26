@@ -22,11 +22,19 @@
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=mujemi26&theme=catppuccin_latte&no-frame=false&no-bg=false&margin-w=4)
 
+<div align="center">
+
 ### ✍️ Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
+</div>
+
+<div align="center">
+  
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=mujemi26&limit=5&theme=catppuccin_latte&combine_all_yearly_contributions=true)
+
+</div>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=mujemi26&icon=2&color=12)](https://visitcount.itsvg.in) 
