@@ -1,13 +1,16 @@
-<h1 align="center">Hi 👋, I'm Muhammad Gamal</h1>
-<h3 align="center">A passionate DevOps Engineer from Egypt 👨🏼‍💻🇪🇬</h3><br>
 
-<h3>🌱 I’m currently learning Frameworks , Courses ,etc</h3>
+<h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40px">, I'm Muhammad Gamal</h1>
+<h1 align="center">A passionate DevOps Engineer from Egypt 👨🏼‍💻 <img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiBDs-F1eZNAfAOtyWweBqyzN69PlJ_fZv2-z0-uhGytCe0TBFynCYo0mxCjjFas6DyjLgUcZul2jJHvP3pS-uBPoFbLzVrsuH5poiWMSxBTw6ZA_jOaihK9JzbvWXS_dtGIOhVezAOWbg/s1600/egypt-flag-animation.gif" width="40px">
+</h1><br> <img align="right" height="250" width="375" alt="" src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/coder.gif" /> <br>
 
-<h3>👯 I’m looking to collaborate on Cloud DevOps Projects</h3>
+<h3>🌱 I’m currently learning Frameworks , Courses ,etc</h3> 
 
-<h3>🤝 I’m looking for help with DevOps</h3>
+<h3>🔎 I’m looking to collaborate on Cloud DevOps Projects</h3>
 
-## 🌐 Socials:
+<h3>🤝 I’m looking for help with DevOps</h3> <br>
+
+
+# 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/mujimmy_) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/mujimmy_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mgghatory) 
 
 # 💻 Tech Stack:
@@ -27,5 +30,7 @@
 ![](https://github-contributor-stats.vercel.app/api?username=mujemi26&limit=5&theme=catppuccin_latte&combine_all_yearly_contributions=true)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=mujemi26&icon=2&color=12)](https://visitcount.itsvg.in)
-
+[![](https://visitcount.itsvg.in/api?id=mujemi26&icon=2&color=12)](https://visitcount.itsvg.in) 
+<h1 align='center'>⚡️<i>Stay awesome!</i>⚡️
+<img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" alt="Github Stats" />
+</h1>
